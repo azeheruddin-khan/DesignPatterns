@@ -1,0 +1,14 @@
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\bin\Debug\net8.0\Singleton.LazyLoading.exe
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\bin\Debug\net8.0\Singleton.LazyLoading.deps.json
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\bin\Debug\net8.0\Singleton.LazyLoading.runtimeconfig.json
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\bin\Debug\net8.0\Singleton.LazyLoading.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\bin\Debug\net8.0\Singleton.LazyLoading.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\obj\Debug\net8.0\Singleton.LazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\obj\Debug\net8.0\Singleton.LazyLoading.AssemblyInfoInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\obj\Debug\net8.0\Singleton.LazyLoading.AssemblyInfo.cs
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\obj\Debug\net8.0\Singleton.LazyLoading.csproj.CoreCompileInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\obj\Debug\net8.0\Singleton.LazyLoading.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\obj\Debug\net8.0\refint\Singleton.LazyLoading.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\obj\Debug\net8.0\Singleton.LazyLoading.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\obj\Debug\net8.0\Singleton.LazyLoading.genruntimeconfig.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.LazyLoading\obj\Debug\net8.0\ref\Singleton.LazyLoading.dll

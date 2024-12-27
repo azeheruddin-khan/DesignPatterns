@@ -1,0 +1,14 @@
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\bin\Debug\net8.0\Singleton.Structural.exe
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\bin\Debug\net8.0\Singleton.Structural.deps.json
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\bin\Debug\net8.0\Singleton.Structural.runtimeconfig.json
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\bin\Debug\net8.0\Singleton.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\bin\Debug\net8.0\Singleton.Structural.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\obj\Debug\net8.0\Singleton.Structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\obj\Debug\net8.0\Singleton.Structural.AssemblyInfoInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\obj\Debug\net8.0\Singleton.Structural.AssemblyInfo.cs
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\obj\Debug\net8.0\Singleton.Structural.csproj.CoreCompileInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\obj\Debug\net8.0\Singleton.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\obj\Debug\net8.0\refint\Singleton.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\obj\Debug\net8.0\Singleton.Structural.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\obj\Debug\net8.0\Singleton.Structural.genruntimeconfig.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Singleton.Structural\obj\Debug\net8.0\ref\Singleton.Structural.dll

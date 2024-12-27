@@ -1,0 +1,14 @@
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\bin\Debug\net8.0\Prototype.Structural.exe
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\bin\Debug\net8.0\Prototype.Structural.deps.json
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\bin\Debug\net8.0\Prototype.Structural.runtimeconfig.json
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\bin\Debug\net8.0\Prototype.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\bin\Debug\net8.0\Prototype.Structural.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\obj\Debug\net8.0\Prototype.Structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\obj\Debug\net8.0\Prototype.Structural.AssemblyInfoInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\obj\Debug\net8.0\Prototype.Structural.AssemblyInfo.cs
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\obj\Debug\net8.0\Prototype.Structural.csproj.CoreCompileInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\obj\Debug\net8.0\Prototype.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\obj\Debug\net8.0\refint\Prototype.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\obj\Debug\net8.0\Prototype.Structural.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\obj\Debug\net8.0\Prototype.Structural.genruntimeconfig.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.Structural\obj\Debug\net8.0\ref\Prototype.Structural.dll
