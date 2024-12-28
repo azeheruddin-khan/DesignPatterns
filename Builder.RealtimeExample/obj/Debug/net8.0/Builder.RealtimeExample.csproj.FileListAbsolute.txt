@@ -1,0 +1,14 @@
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\bin\Debug\net8.0\Builder.RealtimeExample.exe
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\bin\Debug\net8.0\Builder.RealtimeExample.deps.json
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\bin\Debug\net8.0\Builder.RealtimeExample.runtimeconfig.json
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\bin\Debug\net8.0\Builder.RealtimeExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\bin\Debug\net8.0\Builder.RealtimeExample.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\obj\Debug\net8.0\Builder.RealtimeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\obj\Debug\net8.0\Builder.RealtimeExample.AssemblyInfoInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\obj\Debug\net8.0\Builder.RealtimeExample.AssemblyInfo.cs
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\obj\Debug\net8.0\Builder.RealtimeExample.csproj.CoreCompileInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\obj\Debug\net8.0\Builder.RealtimeExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\obj\Debug\net8.0\refint\Builder.RealtimeExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\obj\Debug\net8.0\Builder.RealtimeExample.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\obj\Debug\net8.0\Builder.RealtimeExample.genruntimeconfig.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.RealtimeExample\obj\Debug\net8.0\ref\Builder.RealtimeExample.dll

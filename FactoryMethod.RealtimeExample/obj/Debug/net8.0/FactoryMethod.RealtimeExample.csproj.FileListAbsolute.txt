@@ -1,0 +1,14 @@
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\bin\Debug\net8.0\FactoryMethod.RealtimeExample.exe
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\bin\Debug\net8.0\FactoryMethod.RealtimeExample.deps.json
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\bin\Debug\net8.0\FactoryMethod.RealtimeExample.runtimeconfig.json
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\bin\Debug\net8.0\FactoryMethod.RealtimeExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\bin\Debug\net8.0\FactoryMethod.RealtimeExample.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\obj\Debug\net8.0\FactoryMethod.RealtimeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\obj\Debug\net8.0\FactoryMethod.RealtimeExample.AssemblyInfoInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\obj\Debug\net8.0\FactoryMethod.RealtimeExample.AssemblyInfo.cs
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\obj\Debug\net8.0\FactoryMethod.RealtimeExample.csproj.CoreCompileInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\obj\Debug\net8.0\FactoryMethod.RealtimeExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\obj\Debug\net8.0\refint\FactoryMethod.RealtimeExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\obj\Debug\net8.0\FactoryMethod.RealtimeExample.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\obj\Debug\net8.0\FactoryMethod.RealtimeExample.genruntimeconfig.cache
+E:\GitHub\DesignPatterns\DesignPatterns\FactoryMethod.RealtimeExample\obj\Debug\net8.0\ref\FactoryMethod.RealtimeExample.dll

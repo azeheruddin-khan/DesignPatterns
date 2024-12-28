@@ -1,0 +1,14 @@
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\bin\Debug\net8.0\Builder.Structural.exe
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\bin\Debug\net8.0\Builder.Structural.deps.json
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\bin\Debug\net8.0\Builder.Structural.runtimeconfig.json
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\bin\Debug\net8.0\Builder.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\bin\Debug\net8.0\Builder.Structural.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\obj\Debug\net8.0\Builder.Structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\obj\Debug\net8.0\Builder.Structural.AssemblyInfoInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\obj\Debug\net8.0\Builder.Structural.AssemblyInfo.cs
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\obj\Debug\net8.0\Builder.Structural.csproj.CoreCompileInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\obj\Debug\net8.0\Builder.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\obj\Debug\net8.0\refint\Builder.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\obj\Debug\net8.0\Builder.Structural.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\obj\Debug\net8.0\Builder.Structural.genruntimeconfig.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Builder.Structural\obj\Debug\net8.0\ref\Builder.Structural.dll

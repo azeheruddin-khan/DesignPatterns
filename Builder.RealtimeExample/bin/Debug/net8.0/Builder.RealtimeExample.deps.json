@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Builder.RealtimeExample/1.0.0": {
+        "runtime": {
+          "Builder.RealtimeExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Builder.RealtimeExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
