@@ -1,0 +1,14 @@
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\obj\Debug\net8.0\Prototype.ShallowDeepCopyExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\obj\Debug\net8.0\Prototype.ShallowDeepCopyExample.AssemblyInfoInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\obj\Debug\net8.0\Prototype.ShallowDeepCopyExample.AssemblyInfo.cs
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\obj\Debug\net8.0\Prototype.ShallowDeepCopyExample.csproj.CoreCompileInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\bin\Debug\net8.0\Prototype.ShallowDeepCopyExample.exe
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\bin\Debug\net8.0\Prototype.ShallowDeepCopyExample.deps.json
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\bin\Debug\net8.0\Prototype.ShallowDeepCopyExample.runtimeconfig.json
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\bin\Debug\net8.0\Prototype.ShallowDeepCopyExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\bin\Debug\net8.0\Prototype.ShallowDeepCopyExample.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\obj\Debug\net8.0\Prototype.ShallowDeepCopyExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\obj\Debug\net8.0\refint\Prototype.ShallowDeepCopyExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\obj\Debug\net8.0\Prototype.ShallowDeepCopyExample.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\obj\Debug\net8.0\Prototype.ShallowDeepCopyExample.genruntimeconfig.cache
+E:\GitHub\DesignPatterns\DesignPatterns\Prototype.ShallowDeepCopyExample\obj\Debug\net8.0\ref\Prototype.ShallowDeepCopyExample.dll

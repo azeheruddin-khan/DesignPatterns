@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FactoryMethod.SimpleFactory/1.0.0": {
+        "runtime": {
+          "FactoryMethod.SimpleFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryMethod.SimpleFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
