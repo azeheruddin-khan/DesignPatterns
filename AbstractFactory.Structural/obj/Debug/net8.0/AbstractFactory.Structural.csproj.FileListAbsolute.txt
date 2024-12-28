@@ -1,0 +1,14 @@
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\bin\Debug\net8.0\AbstractFactory.Structural.exe
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\bin\Debug\net8.0\AbstractFactory.Structural.deps.json
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\bin\Debug\net8.0\AbstractFactory.Structural.runtimeconfig.json
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\bin\Debug\net8.0\AbstractFactory.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\bin\Debug\net8.0\AbstractFactory.Structural.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\obj\Debug\net8.0\AbstractFactory.Structural.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\obj\Debug\net8.0\AbstractFactory.Structural.AssemblyInfoInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\obj\Debug\net8.0\AbstractFactory.Structural.AssemblyInfo.cs
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\obj\Debug\net8.0\AbstractFactory.Structural.csproj.CoreCompileInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\obj\Debug\net8.0\AbstractFactory.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\obj\Debug\net8.0\refint\AbstractFactory.Structural.dll
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\obj\Debug\net8.0\AbstractFactory.Structural.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\obj\Debug\net8.0\AbstractFactory.Structural.genruntimeconfig.cache
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.Structural\obj\Debug\net8.0\ref\AbstractFactory.Structural.dll

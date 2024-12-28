@@ -1,0 +1,14 @@
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\bin\Debug\net8.0\AbstractFactory.RealtimeExample.exe
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\bin\Debug\net8.0\AbstractFactory.RealtimeExample.deps.json
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\bin\Debug\net8.0\AbstractFactory.RealtimeExample.runtimeconfig.json
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\bin\Debug\net8.0\AbstractFactory.RealtimeExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\bin\Debug\net8.0\AbstractFactory.RealtimeExample.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\obj\Debug\net8.0\AbstractFactory.RealtimeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\obj\Debug\net8.0\AbstractFactory.RealtimeExample.AssemblyInfoInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\obj\Debug\net8.0\AbstractFactory.RealtimeExample.AssemblyInfo.cs
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\obj\Debug\net8.0\AbstractFactory.RealtimeExample.csproj.CoreCompileInputs.cache
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\obj\Debug\net8.0\AbstractFactory.RealtimeExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\obj\Debug\net8.0\refint\AbstractFactory.RealtimeExample.dll
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\obj\Debug\net8.0\AbstractFactory.RealtimeExample.pdb
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\obj\Debug\net8.0\AbstractFactory.RealtimeExample.genruntimeconfig.cache
+E:\GitHub\DesignPatterns\DesignPatterns\AbstractFactory.RealtimeExample\obj\Debug\net8.0\ref\AbstractFactory.RealtimeExample.dll
