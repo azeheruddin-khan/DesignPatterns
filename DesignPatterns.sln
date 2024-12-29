@@ -11,23 +11,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton.LazyLoading", "Si
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype.Structural", "Prototype.Structural\Prototype.Structural.csproj", "{5C73A85F-F71B-43C8-8B77-48978869E293}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype.ShallowDeepCopyExample", "Prototype.ShallowDeepCopyExample\Prototype.ShallowDeepCopyExample.csproj", "{FF44E8B8-452B-4E4C-9E5A-5CD7D349A9F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype.ShallowDeepCopyExample", "Prototype.ShallowDeepCopyExample\Prototype.ShallowDeepCopyExample.csproj", "{FF44E8B8-452B-4E4C-9E5A-5CD7D349A9F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype.UsingSerializer", "Prototype.UsingSerializer\Prototype.UsingSerializer.csproj", "{3B0DFF52-97C0-445C-B874-D0651C4356DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype.UsingSerializer", "Prototype.UsingSerializer\Prototype.UsingSerializer.csproj", "{3B0DFF52-97C0-445C-B874-D0651C4356DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.SimpleFactory", "FactoryMethod.SimpleFactory\FactoryMethod.SimpleFactory.csproj", "{77FD5BB6-AD99-4709-AE08-382FB3463434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod.SimpleFactory", "FactoryMethod.SimpleFactory\FactoryMethod.SimpleFactory.csproj", "{77FD5BB6-AD99-4709-AE08-382FB3463434}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.Structural", "FactoryMethod.Structural\FactoryMethod.Structural.csproj", "{337D4DEC-4572-49A2-A263-BB089976F172}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod.Structural", "FactoryMethod.Structural\FactoryMethod.Structural.csproj", "{337D4DEC-4572-49A2-A263-BB089976F172}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.RealtimeExample", "FactoryMethod.RealtimeExample\FactoryMethod.RealtimeExample.csproj", "{0A4CD7C7-08F4-4973-84CF-3E62C140F7FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod.RealtimeExample", "FactoryMethod.RealtimeExample\FactoryMethod.RealtimeExample.csproj", "{0A4CD7C7-08F4-4973-84CF-3E62C140F7FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory.Structural", "AbstractFactory.Structural\AbstractFactory.Structural.csproj", "{0FBC1346-9B62-41BD-BEF0-ED0EC7DB7CF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory.Structural", "AbstractFactory.Structural\AbstractFactory.Structural.csproj", "{0FBC1346-9B62-41BD-BEF0-ED0EC7DB7CF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory.RealtimeExample", "AbstractFactory.RealtimeExample\AbstractFactory.RealtimeExample.csproj", "{AB728BA7-1BE2-4B7A-96A0-42BA2305E153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory.RealtimeExample", "AbstractFactory.RealtimeExample\AbstractFactory.RealtimeExample.csproj", "{AB728BA7-1BE2-4B7A-96A0-42BA2305E153}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Structural", "Builder.Structural\Builder.Structural.csproj", "{FB427DDB-F0C6-4149-AE98-389113DA6269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder.Structural", "Builder.Structural\Builder.Structural.csproj", "{FB427DDB-F0C6-4149-AE98-389113DA6269}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.RealtimeExample", "Builder.RealtimeExample\Builder.RealtimeExample.csproj", "{E9F01342-03F4-4CB7-8FF4-9D6F2B83CCCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder.RealtimeExample", "Builder.RealtimeExample\Builder.RealtimeExample.csproj", "{E9F01342-03F4-4CB7-8FF4-9D6F2B83CCCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Fluent", "Builder.Fluent\Builder.Fluent.csproj", "{7624CD81-D14D-4ED2-90F1-D2407CDEAB73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{E9F01342-03F4-4CB7-8FF4-9D6F2B83CCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9F01342-03F4-4CB7-8FF4-9D6F2B83CCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9F01342-03F4-4CB7-8FF4-9D6F2B83CCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7624CD81-D14D-4ED2-90F1-D2407CDEAB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7624CD81-D14D-4ED2-90F1-D2407CDEAB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7624CD81-D14D-4ED2-90F1-D2407CDEAB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7624CD81-D14D-4ED2-90F1-D2407CDEAB73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
