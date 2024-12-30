@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            IService service = new ProxyService();
+            object result = service.GetData("one");
+            object result1 = service.GetData("one");
         }
     }
 }
