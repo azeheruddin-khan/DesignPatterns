@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade.Structural", "Facade
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade.RealtimeExample", "Facade.RealtimeExample\Facade.RealtimeExample.csproj", "{5132BF22-674E-4A56-A884-A2D340EBC788}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy.Structural", "Proxy.Structural\Proxy.Structural.csproj", "{FA8C4EB7-3BD1-407F-8A8E-D8E9D1D503A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy.Structural", "Proxy.Structural\Proxy.Structural.csproj", "{FA8C4EB7-3BD1-407F-8A8E-D8E9D1D503A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy.RealtimeExample", "Proxy.RealtimeExample\Proxy.RealtimeExample.csproj", "{55C1FED6-FE48-4479-9F24-AF66C059DD1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy.RealtimeExample", "Proxy.RealtimeExample\Proxy.RealtimeExample.csproj", "{55C1FED6-FE48-4479-9F24-AF66C059DD1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.Structural", "Bridge.Structural\Bridge.Structural.csproj", "{1A024E6A-4CC4-434D-A941-9F688BED6D3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{55C1FED6-FE48-4479-9F24-AF66C059DD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55C1FED6-FE48-4479-9F24-AF66C059DD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55C1FED6-FE48-4479-9F24-AF66C059DD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A024E6A-4CC4-434D-A941-9F688BED6D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A024E6A-4CC4-434D-A941-9F688BED6D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A024E6A-4CC4-434D-A941-9F688BED6D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A024E6A-4CC4-434D-A941-9F688BED6D3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
