@@ -39,15 +39,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy.Structural", "Proxy.S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy.RealtimeExample", "Proxy.RealtimeExample\Proxy.RealtimeExample.csproj", "{55C1FED6-FE48-4479-9F24-AF66C059DD1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.Structural", "Bridge.Structural\Bridge.Structural.csproj", "{1A024E6A-4CC4-434D-A941-9F688BED6D3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge.Structural", "Bridge.Structural\Bridge.Structural.csproj", "{1A024E6A-4CC4-434D-A941-9F688BED6D3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.RealtimeExample", "Bridge.RealtimeExample\Bridge.RealtimeExample.csproj", "{504A9D45-B205-4741-B45F-EF5D94039BA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge.RealtimeExample", "Bridge.RealtimeExample\Bridge.RealtimeExample.csproj", "{504A9D45-B205-4741-B45F-EF5D94039BA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter.Structural", "Adapter.Structural\Adapter.Structural.csproj", "{BF4893CE-B323-42FB-9120-F1A49C9B721F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter.Structural", "Adapter.Structural\Adapter.Structural.csproj", "{BF4893CE-B323-42FB-9120-F1A49C9B721F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite.Structural", "Composite.Structural\Composite.Structural.csproj", "{69A2613D-4E6B-4D84-AFDC-A10237C71708}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite.Structural", "Composite.Structural\Composite.Structural.csproj", "{69A2613D-4E6B-4D84-AFDC-A10237C71708}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite.ReatimeExample", "Composite.ReatimeExample\Composite.ReatimeExample.csproj", "{1CE25501-6D54-4781-8AB5-5ABEB4D55824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite.ReatimeExample", "Composite.ReatimeExample\Composite.ReatimeExample.csproj", "{1CE25501-6D54-4781-8AB5-5ABEB4D55824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight.Structural", "Flyweight.Structural\Flyweight.Structural.csproj", "{24B46EDA-BDAF-4060-8712-2D6E7360F281}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{1CE25501-6D54-4781-8AB5-5ABEB4D55824}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CE25501-6D54-4781-8AB5-5ABEB4D55824}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CE25501-6D54-4781-8AB5-5ABEB4D55824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B46EDA-BDAF-4060-8712-2D6E7360F281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B46EDA-BDAF-4060-8712-2D6E7360F281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B46EDA-BDAF-4060-8712-2D6E7360F281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B46EDA-BDAF-4060-8712-2D6E7360F281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
