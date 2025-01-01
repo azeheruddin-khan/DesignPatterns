@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.RealtimeExample", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter.Structural", "Adapter.Structural\Adapter.Structural.csproj", "{BF4893CE-B323-42FB-9120-F1A49C9B721F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite.Structural", "Composite.Structural\Composite.Structural.csproj", "{69A2613D-4E6B-4D84-AFDC-A10237C71708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite.ReatimeExample", "Composite.ReatimeExample\Composite.ReatimeExample.csproj", "{1CE25501-6D54-4781-8AB5-5ABEB4D55824}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{BF4893CE-B323-42FB-9120-F1A49C9B721F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF4893CE-B323-42FB-9120-F1A49C9B721F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF4893CE-B323-42FB-9120-F1A49C9B721F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A2613D-4E6B-4D84-AFDC-A10237C71708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A2613D-4E6B-4D84-AFDC-A10237C71708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A2613D-4E6B-4D84-AFDC-A10237C71708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A2613D-4E6B-4D84-AFDC-A10237C71708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE25501-6D54-4781-8AB5-5ABEB4D55824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE25501-6D54-4781-8AB5-5ABEB4D55824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE25501-6D54-4781-8AB5-5ABEB4D55824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE25501-6D54-4781-8AB5-5ABEB4D55824}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
