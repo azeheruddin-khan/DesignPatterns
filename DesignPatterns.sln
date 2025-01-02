@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite.ReatimeExample", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight.Structural", "Flyweight.Structural\Flyweight.Structural.csproj", "{24B46EDA-BDAF-4060-8712-2D6E7360F281}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainofResponsibility.Structural", "ChainofResponsibility.Structural\ChainofResponsibility.Structural.csproj", "{1946706D-B55B-4593-9E17-02D2B88E5605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{24B46EDA-BDAF-4060-8712-2D6E7360F281}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24B46EDA-BDAF-4060-8712-2D6E7360F281}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24B46EDA-BDAF-4060-8712-2D6E7360F281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1946706D-B55B-4593-9E17-02D2B88E5605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1946706D-B55B-4593-9E17-02D2B88E5605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1946706D-B55B-4593-9E17-02D2B88E5605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1946706D-B55B-4593-9E17-02D2B88E5605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
