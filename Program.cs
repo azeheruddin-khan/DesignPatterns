@@ -1,18 +1,18 @@
-﻿namespace Interpreter.Structural
+﻿namespace Strategy.Structural
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-           Context context = new Context();
-           List<AbstractExpression> expressions = new List<AbstractExpression>();
-            expressions.Add(new TerminalExpression());            
-            expressions.Add(new NonTerminalExpression ());
+            Context ctx = new Context(new ConcreateStrategy());
+            ctx.AddItems("a");
+            ctx.AddItems("b");
+            ctx.AddItems("c");
+            ctx.AddItems("d");
+            ctx.AddItems("z");
+            ctx.AddItems("y");
+            ctx.Sort();
 
-            foreach (AbstractExpression expression in expressions)
-            {
-                expression.Interpret(context);
-            }
         }
     }
 }

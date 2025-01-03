@@ -1,13 +1,22 @@
-﻿namespace Interpreter.Structural
+﻿namespace Strategy.Structural
 {
     public class Context
     {
-        private Dictionary<string, dynamic> properties = new Dictionary<string, dynamic>();
-
-        public string this[string key]
+        private List<string> lst=  new List<string>();
+        public void AddItems(string item)
         {
-            get => properties[key];
-            set => properties[key] = value;
+            lst.Add(item);
         }
+        Strategy strategy;
+        public Context(Strategy strategy) {
+            this.strategy = strategy;
+        
+        }
+
+        public void Sort()
+        {
+            strategy.Sort(lst);
+        }
+
     }
 }
