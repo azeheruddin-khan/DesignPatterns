@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Structural", "Stra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod.Structural", "TemplateMethod.Structural\TemplateMethod.Structural.csproj", "{BF2C8B5B-B4C9-4BC0-9202-EAB15BDFC5BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.Structural", "State.Structural\State.Structural.csproj", "{6CF3A798-0DFF-4E82-9B07-A7A7B0334614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{BF2C8B5B-B4C9-4BC0-9202-EAB15BDFC5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF2C8B5B-B4C9-4BC0-9202-EAB15BDFC5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF2C8B5B-B4C9-4BC0-9202-EAB15BDFC5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF3A798-0DFF-4E82-9B07-A7A7B0334614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF3A798-0DFF-4E82-9B07-A7A7B0334614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF3A798-0DFF-4E82-9B07-A7A7B0334614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF3A798-0DFF-4E82-9B07-A7A7B0334614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
