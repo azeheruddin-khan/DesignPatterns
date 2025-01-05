@@ -53,17 +53,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight.Structural", "Fly
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainofResponsibility.Structural", "ChainofResponsibility.Structural\ChainofResponsibility.Structural.csproj", "{1946706D-B55B-4593-9E17-02D2B88E5605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command.Structural", "Command.Structural\Command.Structural.csproj", "{45003AF3-B85C-4D3D-B1D0-2E04A7D7252F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command.Structural", "Command.Structural\Command.Structural.csproj", "{45003AF3-B85C-4D3D-B1D0-2E04A7D7252F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter.Structural", "Interpreter.Structural\Interpreter.Structural.csproj", "{7CB4E245-7A41-4430-8AC3-125A55FD080C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpreter.Structural", "Interpreter.Structural\Interpreter.Structural.csproj", "{7CB4E245-7A41-4430-8AC3-125A55FD080C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Structural", "Iterator.Structural\Iterator.Structural.csproj", "{0377B616-C664-439D-83B4-2EF498376CD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator.Structural", "Iterator.Structural\Iterator.Structural.csproj", "{0377B616-C664-439D-83B4-2EF498376CD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Structural", "Strategy.Structural\Strategy.Structural.csproj", "{03627608-71EB-47B5-9C42-2E182E879061}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy.Structural", "Strategy.Structural\Strategy.Structural.csproj", "{03627608-71EB-47B5-9C42-2E182E879061}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod.Structural", "TemplateMethod.Structural\TemplateMethod.Structural.csproj", "{BF2C8B5B-B4C9-4BC0-9202-EAB15BDFC5BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod.Structural", "TemplateMethod.Structural\TemplateMethod.Structural.csproj", "{BF2C8B5B-B4C9-4BC0-9202-EAB15BDFC5BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.Structural", "State.Structural\State.Structural.csproj", "{6CF3A798-0DFF-4E82-9B07-A7A7B0334614}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State.Structural", "State.Structural\State.Structural.csproj", "{6CF3A798-0DFF-4E82-9B07-A7A7B0334614}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer.Structural", "Observer.Structural\Observer.Structural.csproj", "{09D7C6E0-6807-4365-A73F-A385F54315E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.Structural", "Mediator.Structural\Mediator.Structural.csproj", "{E9463117-79E5-4533-9A23-42D3B3531394}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +199,14 @@ Global
 		{6CF3A798-0DFF-4E82-9B07-A7A7B0334614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CF3A798-0DFF-4E82-9B07-A7A7B0334614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CF3A798-0DFF-4E82-9B07-A7A7B0334614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D7C6E0-6807-4365-A73F-A385F54315E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D7C6E0-6807-4365-A73F-A385F54315E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D7C6E0-6807-4365-A73F-A385F54315E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D7C6E0-6807-4365-A73F-A385F54315E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9463117-79E5-4533-9A23-42D3B3531394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9463117-79E5-4533-9A23-42D3B3531394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9463117-79E5-4533-9A23-42D3B3531394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9463117-79E5-4533-9A23-42D3B3531394}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
