@@ -67,9 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State.Structural", "State.S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer.Structural", "Observer.Structural\Observer.Structural.csproj", "{09D7C6E0-6807-4365-A73F-A385F54315E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.Structural", "Mediator.Structural\Mediator.Structural.csproj", "{E9463117-79E5-4533-9A23-42D3B3531394}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator.Structural", "Mediator.Structural\Mediator.Structural.csproj", "{E9463117-79E5-4533-9A23-42D3B3531394}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento.Structural", "Memento.Structural\Memento.Structural.csproj", "{4CA65167-5B2B-4201-A11A-6CD0B9D15627}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento.Structural", "Memento.Structural\Memento.Structural.csproj", "{4CA65167-5B2B-4201-A11A-6CD0B9D15627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor.Structural", "Visitor.Structural\Visitor.Structural.csproj", "{ED5A0F8B-FFE2-46FA-BCB9-5983C6B4B11A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{4CA65167-5B2B-4201-A11A-6CD0B9D15627}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CA65167-5B2B-4201-A11A-6CD0B9D15627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CA65167-5B2B-4201-A11A-6CD0B9D15627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5A0F8B-FFE2-46FA-BCB9-5983C6B4B11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5A0F8B-FFE2-46FA-BCB9-5983C6B4B11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5A0F8B-FFE2-46FA-BCB9-5983C6B4B11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5A0F8B-FFE2-46FA-BCB9-5983C6B4B11A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
