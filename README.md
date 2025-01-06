@@ -23,15 +23,15 @@ This repository contains comprehensive structural and real-world examples of GoF
 
 <h1>Behavioral Patterns:</h1>
 <ul>
-<li> Chain of Responsibility</li>
-    <li>Command             </li>
-    <li>Iterator            </li>
-    <li>Mediator            </li>
-    <li>Memento             </li>
-    <li>Observer            </li>
-    <li>State               </li>
-    <li>Strategy            </li>
-    <li>Template Method     </li>
-    <li> Visitor </ li >
+<li> <a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/ChainofResponsibility.Structural" target="_blank">Chain of Responsibility</a></li>>
+    <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Command.Structural" target="_blank">Command</a></li>
+    <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Iterator.Structural" target="_blank">Iterator</a></li>
+    <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Mediator.Structural" target="_blank">Mediator </a></li>
+    <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Memento.Structural" target="_blank">Memento </a></li>
+    <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Observer.Structural" target="_blank">Observer</a></li>
+    <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/State.Structural" target="_blank">State </a></li>
+    <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Strategy.Structural" target="_blank">Strategy </a></li>
+    <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/TemplateMethod.Structural" target="_blank">Template Method </a></li>
+    <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Visitor.Structural" target="_blank"> Visitor </a></li>
 </ul>
 
