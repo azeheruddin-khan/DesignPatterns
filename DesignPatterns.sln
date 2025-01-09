@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator.Structural", "Medi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento.Structural", "Memento.Structural\Memento.Structural.csproj", "{4CA65167-5B2B-4201-A11A-6CD0B9D15627}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor.Structural", "Visitor.Structural\Visitor.Structural.csproj", "{ED5A0F8B-FFE2-46FA-BCB9-5983C6B4B11A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor.Structural", "Visitor.Structural\Visitor.Structural.csproj", "{ED5A0F8B-FFE2-46FA-BCB9-5983C6B4B11A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.TrafficLightSystem", "State.TrafficLightSystem\State.TrafficLightSystem.csproj", "{58B9BD86-CB60-43FA-86EB-8D62F1EE914A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{ED5A0F8B-FFE2-46FA-BCB9-5983C6B4B11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED5A0F8B-FFE2-46FA-BCB9-5983C6B4B11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED5A0F8B-FFE2-46FA-BCB9-5983C6B4B11A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B9BD86-CB60-43FA-86EB-8D62F1EE914A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B9BD86-CB60-43FA-86EB-8D62F1EE914A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B9BD86-CB60-43FA-86EB-8D62F1EE914A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B9BD86-CB60-43FA-86EB-8D62F1EE914A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
