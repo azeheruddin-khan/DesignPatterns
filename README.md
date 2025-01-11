@@ -30,7 +30,9 @@ This repository contains comprehensive structural and real-world examples of GoF
   <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Mediator.Structural" target="_blank">Mediator </a>-- Defines simplified communication between classes</li>
   <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Memento.Structural" target="_blank">Memento </a>-- Capture and restore an object's internal state</li>
   <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Observer.Structural" target="_blank">Observer</a>-- 	A way of notifying change to a number of classes</li>
-  <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/State.Structural" target="_blank">State </a>-- Alter an object's behavior when its state changes</li>
+  <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/State.Structural" target="_blank">State </a>-- Alter an object's behavior when its state changes<ul>Examples <li>
+    <a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/State.TrafficLightSystem" target="_blank">Traffic Light System </a>
+  </li></ul></li>
   <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Strategy.Structural" target="_blank">Strategy </a>-- Encapsulates an algorithm inside a class</li>
   <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/TemplateMethod.Structural" target="_blank">Template Method </a>-- Defer the exact steps of an algorithm to a subclass</li>
   <li><a href ="https://github.com/azeheruddin-khan/DesignPatterns/tree/main/Visitor.Structural" target="_blank"> Visitor </a> -- Defines a new operation to a class without change</li>
