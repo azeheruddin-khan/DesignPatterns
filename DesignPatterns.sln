@@ -75,7 +75,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor.Structural", "Visit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State.TrafficLightSystem", "State.TrafficLightSystem\State.TrafficLightSystem.csproj", "{58B9BD86-CB60-43FA-86EB-8D62F1EE914A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.TrafficLightSystemWithFactoryMethod", "State.TrafficLightSystemWithFactoryMethod\State.TrafficLightSystemWithFactoryMethod.csproj", "{BCC31926-25BA-4718-A9F6-640ADA308314}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State.TrafficLightSystemWithFactoryMethod", "State.TrafficLightSystemWithFactoryMethod\State.TrafficLightSystemWithFactoryMethod.csproj", "{BCC31926-25BA-4718-A9F6-640ADA308314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod.ETLProcess", "TemplateMethod.ETLProcess\TemplateMethod.ETLProcess.csproj", "{D179CCFC-6318-45FF-B4B9-1792D2ADF73E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,10 @@ Global
 		{BCC31926-25BA-4718-A9F6-640ADA308314}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCC31926-25BA-4718-A9F6-640ADA308314}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCC31926-25BA-4718-A9F6-640ADA308314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D179CCFC-6318-45FF-B4B9-1792D2ADF73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D179CCFC-6318-45FF-B4B9-1792D2ADF73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D179CCFC-6318-45FF-B4B9-1792D2ADF73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D179CCFC-6318-45FF-B4B9-1792D2ADF73E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
